@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dd1da32-b772-4edf-a529-64bc2570e90b" name="Default Changelist" comment="再次提交代码">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -76,7 +76,7 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="295" />
+    <option name="x" value="611" />
     <option name="y" value="23" />
     <option name="width" value="1082" />
     <option name="height" value="740" />
@@ -196,7 +196,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="295" y="23" width="1082" height="740" extended-state="0" />
+    <frame x="611" y="23" width="1082" height="740" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -206,8 +206,9 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18365385" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" sideWeight="0.31443298" weight="0.3287037" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.5067308" visible="true" weight="0.3287037" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.49326923" side_tool="true" visible="true" weight="0.3287037" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.5048077" visible="true" weight="0.5972222" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.49519232" side_tool="true" visible="true" weight="0.5972222" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49807692" weight="0.3287037" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
